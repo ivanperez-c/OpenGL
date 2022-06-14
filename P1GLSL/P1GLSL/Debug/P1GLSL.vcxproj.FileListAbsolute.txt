@@ -1,0 +1,10 @@
+C:\Users\Iván\Desktop\Práctica1\P1GLSL\P1GLSL\Debug\P1GLSL.exe
+C:\Users\Iván\Desktop\Práctica1\P1GLSL\P1GLSL\Debug\P1GLSL.pdb
+C:\Users\Iván\Desktop\Práctica1-Obligatoria\P1GLSL\P1GLSL\Debug\P1GLSL.exe
+C:\Users\Iván\Desktop\Práctica1-Obligatoria\P1GLSL\P1GLSL\Debug\P1GLSL.pdb
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Obligatoria\P1GLSL\P1GLSL\Debug\P1GLSL.exe
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Obligatoria\P1GLSL\P1GLSL\Debug\P1GLSL.pdb
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Obligatoria - copia\P1GLSL\P1GLSL\Debug\P1GLSL.exe
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Obligatoria - copia\P1GLSL\P1GLSL\Debug\P1GLSL.pdb
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\Debug\P1GLSL.exe
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\Debug\P1GLSL.pdb

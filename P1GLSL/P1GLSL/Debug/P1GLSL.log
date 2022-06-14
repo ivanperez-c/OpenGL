@@ -1,0 +1,17 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\scr\main.cpp(16,14): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\scr\main.cpp(17,16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\scr\main.cpp(41,27): warning C4305: '=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\scr\main.cpp(45,29): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\scr\main.cpp(137,13): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\scr\main.cpp(139,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  P1GLSL.vcxproj -> C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 1\Práctica1-Opcional\P1GLSL\P1GLSL\Debug\P1GLSL.exe
