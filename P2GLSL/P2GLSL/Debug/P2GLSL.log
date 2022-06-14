@@ -1,0 +1,7 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 2\Práctica 2 - Opcional\P2GLSL\P2GLSL\scr\main.cpp(125,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 2\Práctica 2 - Opcional\P2GLSL\P2GLSL\scr\main.cpp(145,17): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 2\Práctica 2 - Opcional\P2GLSL\P2GLSL\scr\main.cpp(148,17): warning C4305: '+=': truncamiento de 'double' a 'float'
+main.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  P2GLSL.vcxproj -> C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 2\Práctica 2 - Opcional\P2GLSL\P2GLSL\Debug\P2GLSL.exe

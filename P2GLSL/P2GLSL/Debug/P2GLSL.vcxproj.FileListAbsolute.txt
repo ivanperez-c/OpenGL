@@ -1,0 +1,6 @@
+C:\Users\Iván\Desktop\P2GLSL\P2GLSL\Debug\P2GLSL.exe
+C:\Users\Iván\Desktop\P2GLSL\P2GLSL\Debug\P2GLSL.pdb
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 2\Práctica 2 - Obligatoria\P2GLSL\P2GLSL\Debug\P2GLSL.exe
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 2\Práctica 2 - Obligatoria\P2GLSL\P2GLSL\Debug\P2GLSL.pdb
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 2\Práctica 2 - Opcional\P2GLSL\P2GLSL\Debug\P2GLSL.exe
+C:\Users\Iván\Desktop\1º Cuatrimestre\Informática gráfica\Prácticas\Práctica 2\Práctica 2 - Opcional\P2GLSL\P2GLSL\Debug\P2GLSL.pdb
